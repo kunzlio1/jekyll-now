@@ -1,5 +1,7 @@
 ## Meine Gedanken zum Anfang des Semesters
 
+## !!!Noch in Arbeit!!!
+
 Im Rahmen des Moduls KI1 sollen wir unsere bisherigen Gedanken und Meinung zur Künstlichen Intelligenz festhalten, was ich mit diesem Blogeintrag machen will. Dazu hatten wir zwei Artikel zu lesen um einmal einen groben Einblick in die Thematik zu erhalten.
 Ich wusste zwar bis jetzt schon dass ich immer wieder im alltäglichen Leben mit KIs zu tun habe, doch nicht in diesem Ausmass. Ich habe eher gedacht im Internet mit Bezug auf die Big Five, Big Data usw. und mir einen ominösen Supercomputer vorgestellt. Und als ich meine Informatik Lehre begonnen habe eher etwas in Richtung IRobot :P
 
